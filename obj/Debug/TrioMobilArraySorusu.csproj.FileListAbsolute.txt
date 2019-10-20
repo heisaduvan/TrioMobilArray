@@ -1,0 +1,6 @@
+C:\Users\isadu\source\repos\TrioMobilArraySorusu\bin\Debug\TrioMobilArraySorusu.exe.config
+C:\Users\isadu\source\repos\TrioMobilArraySorusu\bin\Debug\TrioMobilArraySorusu.exe
+C:\Users\isadu\source\repos\TrioMobilArraySorusu\bin\Debug\TrioMobilArraySorusu.pdb
+C:\Users\isadu\source\repos\TrioMobilArraySorusu\obj\Debug\TrioMobilArraySorusu.csprojAssemblyReference.cache
+C:\Users\isadu\source\repos\TrioMobilArraySorusu\obj\Debug\TrioMobilArraySorusu.exe
+C:\Users\isadu\source\repos\TrioMobilArraySorusu\obj\Debug\TrioMobilArraySorusu.pdb
